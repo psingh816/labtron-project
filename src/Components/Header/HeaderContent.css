@@ -1,0 +1,23 @@
+.main-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #ffffff;
+  height: 100px;
+  align-items: center;
+}
+
+.main-links {
+  display: flex;
+  justify-content: space-between;
+  width: 40%;
+  color: black;
+  font-weight: bold;
+}
+
+.search > input {
+  border: solid;
+  background-color: #ffffff;
+  text-align: center;
+  width: 90px;
+}
